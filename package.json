@@ -1,0 +1,22 @@
+{
+  "name": "pokemoncli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaredshue/PokemonCLI.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jaredshue/PokemonCLI/issues"
+  },
+  "homepage": "https://github.com/jaredshue/PokemonCLI#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}

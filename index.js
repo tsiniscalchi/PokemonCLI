@@ -34,3 +34,5 @@ async function main(args) {
         console.log(outputString);
     });
 }
+
+main(process.argv);
